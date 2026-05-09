@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis (PostgreSQL + SQL)
+# Bank Customer Churn Analysis (PostgreSQL)
 
 ## 1. Project Overview
 
